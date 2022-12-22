@@ -1,0 +1,1 @@
+export const JS_CREATION_DATE = new Date(2023, 0, 0);
